@@ -7,13 +7,21 @@ user can also change theme to dark theme, and the app can also follow the system
 
 ![main screen](https://github.com/Dechie/track-expense/blob/main/images/main_screen.jpg)
 
+
+
 ![main screen in landscape mode](https://github.com/Dechie/track-expense/blob/main/images/main_screen_landscape.jpg)
+
+
 
 ![add new expense](https://github.com/Dechie/track-expense/blob/main/images/add_new.jpg)
 
-![main screen in dark mode](https://github.com/Dechie/track-expense/blob/main/images/add_new.jpg)
 
-![main screen in dark mode, landscape](https://github.com/Dechie/track-expense/blob/main/images/add_new.jpg)
+
+![main screen in dark mode](https://github.com/Dechie/track-expense/blob/main/images/main_screen_dark.jpg)
+
+
+
+![main screen in dark mode, landscape](https://github.com/Dechie/track-expense/blob/main/images/main_screen_dark_landscape.jpg)
 
 
 ## Getting Started
