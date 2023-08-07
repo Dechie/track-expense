@@ -5,11 +5,15 @@ it also enables deleting an expense.
 
 user can also change theme to dark theme, and the app can also follow the system theme. the app also works with landscape and portrait modes.
 
-## main screen:
-https://github.com/Dechie/track-expense/blob/main/images/main_screen.jpg?raw=true
+![main screen](https://github.com/Dechie/track-expense/blob/main/images/main_screen.jpg)
 
-## main screen in landscape mode:
-https://github.com/Dechie/track-expense/blob/main/images/main_screen_landscape.jpg?raw=true
+![main screen in landscape mode](https://github.com/Dechie/track-expense/blob/main/images/main_screen_landscape.jpg)
+
+![add new expense](https://github.com/Dechie/track-expense/blob/main/images/add_new.jpg)
+
+![main screen in dark mode](https://github.com/Dechie/track-expense/blob/main/images/add_new.jpg)
+
+![main screen in dark mode, landscape](https://github.com/Dechie/track-expense/blob/main/images/add_new.jpg)
 
 
 ## Getting Started
