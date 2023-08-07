@@ -5,6 +5,13 @@ it also enables deleting an expense.
 
 user can also change theme to dark theme, and the app can also follow the system theme. the app also works with landscape and portrait modes.
 
+## main screen:
+https://github.com/Dechie/track-expense/blob/main/images/main_screen.jpg?raw=true
+
+## main screen in landscape mode:
+https://github.com/Dechie/track-expense/blob/main/images/main_screen_landscape.jpg?raw=true
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
