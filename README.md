@@ -1,6 +1,9 @@
 # exptrack
 
-A new Flutter project.
+An expense tracker flutter app. It creates new expenses, shows list of expenses,
+it also enables deleting an expense. 
+
+user can also change theme to dark theme, and the app can also follow the system theme. the app also works with landscape and portrait modes.
 
 ## Getting Started
 
